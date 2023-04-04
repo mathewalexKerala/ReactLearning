@@ -1,0 +1,12 @@
+The content is a web developer tool called emmet which is used when a programmer is using the html
+and css 
+
+It is an extension that can be used in text editors and in the IDEs like the VSCode and Atom . 
+
+It makes the writing of html and css more quickly and effecient . 
+
+for example: we can write <ul> <li> </li> <li></li><li></li></ul> by just using few keystrokes ul>li*3
+
+This saves the time to write huge code and saves the time .
+
+And it also follows best practices such as using the semantic HTML and avoiding inline styles.
