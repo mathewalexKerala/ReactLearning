@@ -1,0 +1,18 @@
+//Library
+
+Both the libray and the framework are used for the software development process
+eg for library : Jquery and eg for the framework is the expressjs
+Both are used to make writing the code more effecient and quickly 
+But the working of both are different .
+We can use the library any time we want . It is a predefined code. 
+The developer has control over the library . 
+The library doesn't dictate the structure of the application.
+The libraries are focused on solving problems or specific tasks 
+
+//Framework
+
+It is pre-built architecture that provides a set of rules,conventions and components for 
+building an application.
+Framework is a pre-written code that provides structure for the software .
+using it also we get limit the size of the code and make the software effecient.
+
