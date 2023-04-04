@@ -1,0 +1,9 @@
+The crossorigin is an html attribute used in the script tag . 
+It is used to specify whether or not take the resource from a different domain
+The crossorigin attribute when given the value anonymous it can access the resource from differnet 
+domain.
+
+But it will not send any user data along with the request such as cookies or autherization headers.
+
+In order to send user details give the value of the crossorigin attiribute as the use-credentials.
+
