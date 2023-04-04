@@ -1,0 +1,5 @@
+React is known as React because it follows a programming paradigm known as the Reactive programming.
+In this programming paradigm applications are made that react to the changes in environment or the input.
+The react programming language is made to be declarative meaning that it can be defined by the programmer interms of
+its UI and the response it should do during the change in data .React also stores a lightweight copy
+of the actual dom known as the virtual dom.
