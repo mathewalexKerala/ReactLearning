@@ -1,0 +1,9 @@
+The React and ReactDom are two packages in the React Ecosystem
+The react package is the core part of the React Ecosystem. 
+It can be used to create components that can be used together to build complex UIs. 
+React can be used to define the UIs and program the behaviour of the UI due to the change in the 
+applications change . And can render the components to the dom .
+
+React Dom is also a package that provide methods to render the components to the dom .
+Actually it provides integration between the dom and the React.
+It acts as a glue between the React and React Dom
