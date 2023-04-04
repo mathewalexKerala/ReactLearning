@@ -1,0 +1,15 @@
+react.development.js
+
+It is the cdn of the react . 
+It has many tools and it is very heavy .It is used during the development of a software . It is 
+has many tools for debugging and the error messages. It's loading speed is slower. 
+But it is useful in the development level 
+
+
+react.production.js
+
+It is also the cdn of react 
+It doesn't contain the tools for debugging and error messages and warning.
+It is lightweight compared to the development version.
+It is used when website has been hosted and it is very faster and lightweight . Since it doesn't 
+contain all the tools in the development cdn.
