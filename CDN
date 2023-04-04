@@ -1,0 +1,7 @@
+CDN full form is Content Delivery Network .
+It is a distributed network of servers. The main purpose of it is to provide the static files to 
+a request made by the website from the most nearby server . 
+It is used to serve static files such as Images, videos and audio files .
+It is reduces the load on the websites server and increase load time . 
+It reduces the latency 
+It provides good user experience 
