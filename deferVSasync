@@ -1,0 +1,14 @@
+When we add a script tag to a html document . The browser would immediately executes the script before the loading of the html contents . The could reduce the loading speed. 
+Inorder to counter that we use defer and async 
+
+//defer 
+
+When we give defer attribute in the script tag the browser would render the html document and also download the script in the background . 
+The script is executed immediately after it has been downloaded . It doesn't matter whether the html has completed it's loading . 
+This may cause problem if the script depends on resources such as images , css etc in the html .
+
+
+//async 
+
+This attribute allows browser to download the script in the background and executes it only after the complete rendering of the html contents.
+If the script depends on the resources such as the css and images . It would only executes after the rendering of the html contents.And the DOM has finished loading.
